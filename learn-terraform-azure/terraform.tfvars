@@ -1,0 +1,1 @@
+resource_group_name = "RGCloudLab01"
